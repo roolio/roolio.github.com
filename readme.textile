@@ -1,0 +1,4 @@
+h1. Salut à tous
+
+Je ne sais pas si le résultat est git-aware
+

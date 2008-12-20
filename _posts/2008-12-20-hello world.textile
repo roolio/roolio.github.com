@@ -1,0 +1,11 @@
+---
+layout: post
+title: Un début à tout
+language : french
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 Dec 2008 - Paris
+
+Okay this is the first message that uses "Jekyll":http://github.com/mojombo/jekyll 

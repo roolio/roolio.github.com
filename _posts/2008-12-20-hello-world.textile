@@ -9,3 +9,4 @@ h1. {{ page.title }}
 p(meta). 20 Dec 2008 - Paris
 
 Okay this is the first message that uses "Jekyll":http://github.com/mojombo/jekyll 
+And moreover, a basecamp notification is also sent (thxs github web hooks)
